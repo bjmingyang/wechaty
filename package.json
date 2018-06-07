@@ -144,7 +144,7 @@
     "@types/semver": "^5.5.0",
     "@types/sinon": "^5.0.0",
     "@types/ws": "^5.1.0",
-    "@types/xml2js": "^0.4.0",
+    "@types/xml2js": "^0.4.3",
     "apiai": "^4.0.0",
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.0.0",
